@@ -1,0 +1,55 @@
+Project Overview and Objectives:
+
+This project is a simple Python introduction program created as part of an internship learning task. It collects basic information from the user through the terminal and then displays a friendly welcome message.
+
+Objectives:
+
+Learn basic Python programming (variables, input, and output)
+
+Interact with users using input() function
+
+Display results using print() function
+
+Use GitHub to upload and manage the project.
+
+Setup and Installation Instructions:
+
+Make sure Python 3/anaconda is installed on your system.
+
+Open Command Prompt or Terminal and check Python:
+python --version
+
+Download the project folder or clone it from GitHub.
+
+Open the folder in Terminal.
+
+Run the program using:
+python personal_intro.py
+
+Code Structure Explanation:
+
+Files included in the project:
+
+personal_intro.py – The main Python file which contains the code.
+
+README.md – Documentation of the project.
+
+requirements.txt – Shows that no external libraries are required.
+
+screenshot.png – Screenshot of the working application.
+
+How Technical Requirements Were Met:
+
+Used input() to collect user information.
+
+Used variables to store answers (name, age, hobby, city).
+
+Used print() statements to show a welcome message.
+
+Added more than three questions (total four).
+
+Output is friendly, formatted, and welcoming.
+
+Project uploaded to GitHub with the required structure.
+
+
